@@ -12,5 +12,6 @@ public class ParseStarterProjectActivity extends Activity {
 		setContentView(R.layout.main);
 
 		ParseAnalytics.trackAppOpenedInBackground(getIntent());
+
 	}
 }

@@ -5,6 +5,7 @@ import android.app.Application;
 import com.parse.Parse;
 import com.parse.ParseACL;
 import com.parse.ParseCrashReporting;
+import com.parse.ParseObject;
 import com.parse.ParseUser;
 
 public class ParseApplication extends Application {
@@ -21,7 +22,9 @@ public class ParseApplication extends Application {
 
     // Add your initialization code here
       Parse.initialize(this, "9nWnCUTdcZrrXtlGQKOjgPJWayPRKyMSQzU2bXhX", "dCjilcjkIqYAlyx55CIwFqyVjzl1GvKAuML64sXo");
-
+      ParseObject testObject = new ParseObject("TestObject");
+      testObject.put("foo", "bar");
+      testObject.saveInBackground();
 
     ParseUser.enableAutomaticUser();
     ParseACL defaultACL = new ParseACL();
