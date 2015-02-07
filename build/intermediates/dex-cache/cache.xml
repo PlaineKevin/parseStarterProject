@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/KevinN/Downloads/Parse-Starter-Project-1.8.2/ParseStarterProject/libs/Parse-1.8.2.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="c2cb0bfe37cbefd855b6faa3c9a5be833aba7300">
+        <dex dex="/Users/KevinN/Downloads/Parse-Starter-Project-1.8.2/ParseStarterProject/build/intermediates/pre-dexed/debug/Parse-1.8.2-8627adb0e0b505183822febda3b4ba31b58f2032.jar" />
+    </item>
+    <item
+        jar="/Users/KevinN/Downloads/Parse-Starter-Project-1.8.2/ParseStarterProject/libs/ParseCrashReporting-1.8.2.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="ccf9e90414e7bb2cf09f4d7c77c42f70c690e118">
+        <dex dex="/Users/KevinN/Downloads/Parse-Starter-Project-1.8.2/ParseStarterProject/build/intermediates/pre-dexed/debug/ParseCrashReporting-1.8.2-fbe00b43523e49f2a77ef821168d7796bd36c83e.jar" />
+    </item>
+    <item
+        jar="/Users/KevinN/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-android/1.1.4/129874135e6081269ace2312092031558865de12/bolts-android-1.1.4.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="129874135e6081269ace2312092031558865de12">
+        <dex dex="/Users/KevinN/Downloads/Parse-Starter-Project-1.8.2/ParseStarterProject/build/intermediates/pre-dexed/debug/bolts-android-1.1.4-bc334e30b8e199bb3e6b6feda3c0fe81fd1a3525.jar" />
+    </item>
+
+</items>

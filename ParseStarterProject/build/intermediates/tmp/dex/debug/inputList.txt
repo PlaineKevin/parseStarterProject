@@ -1,0 +1,4 @@
+/Users/KevinN/Downloads/Parse-Starter-Project-1.8.2/ParseStarterProject/build/intermediates/classes/debug
+/Users/KevinN/Downloads/Parse-Starter-Project-1.8.2/ParseStarterProject/build/intermediates/pre-dexed/debug/bolts-android-1.1.4-bc334e30b8e199bb3e6b6feda3c0fe81fd1a3525.jar
+/Users/KevinN/Downloads/Parse-Starter-Project-1.8.2/ParseStarterProject/build/intermediates/pre-dexed/debug/ParseCrashReporting-1.8.2-fbe00b43523e49f2a77ef821168d7796bd36c83e.jar
+/Users/KevinN/Downloads/Parse-Starter-Project-1.8.2/ParseStarterProject/build/intermediates/pre-dexed/debug/Parse-1.8.2-8627adb0e0b505183822febda3b4ba31b58f2032.jar
